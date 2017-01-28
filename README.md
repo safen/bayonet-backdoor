@@ -5,7 +5,13 @@
 
 windows backdoor allow hackers to control windows computer using netcat <br />
 
-How to use : <br />
+
+<b>Features:</b><br />
+-startup with system  <br />
+-usb spread <br />
+-run any CMD command at target <br />
+
+<b>How to use :</b> <br />
 -Run vbs backdor on windows target <br />
 -Target share wifi <br />
 -Connect to wifi target, default password is 0123456789 <br />
