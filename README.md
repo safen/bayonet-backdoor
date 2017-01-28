@@ -1,3 +1,6 @@
+<center>
+<img width="600" height="400" src="https://cloud.githubusercontent.com/assets/6255437/22399816/9d3347fe-e5b6-11e6-8c5b-6389b1fb11f9.jpg"/>
+</center>
 # bayonet-backdoor
 
 windows backdoor allow hackers to control windows computer using netcat <br />
